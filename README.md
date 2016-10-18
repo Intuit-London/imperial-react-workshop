@@ -14,11 +14,12 @@ At the end of the workshop you will be able to
 ## Pre-Requisites
 Come prepared with the following insalled on your laptop. These are simple installs and should not take more than 20 mins.
 
-1. Install Node ( >v4.0.0 )
-2. Install npm  ( >2.15.6 )
-3. Atom or Sublime Text (Any editor)
-4. Chrome or Firefox Browser.
-5. Java 8
+1. Git Client (either command line or a UI tool) 
+2. Install Node ( >v4.0.0 )
+3. Install npm  ( >2.15.6 )
+4. Atom or Sublime Text (Any editor)
+5. Chrome or Firefox Browser.
+6. Java 8
 
 ## Techologies used
 1. Node
